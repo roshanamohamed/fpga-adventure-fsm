@@ -1,0 +1,10 @@
+build/
+__pycache__/
+.pytest_cache/
+*.pyc
+*.vcd
+*.vvp
+*.qdb
+*.rpt
+*.sof
+*.pof
